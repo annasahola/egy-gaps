@@ -1,1 +1,1 @@
-### Aligned lines + accessory files from MaReTEgyptologists/TranslitModels
+### Aligned RTC lines from MaReTE Transliteration Models (https://github.com/MaReTEgyptologists/TranslitModels)
