@@ -1,0 +1,3 @@
+# Aligned RTC lines from MaReTE Transliteration Models (https://github.com/MaReTEgyptologists/TranslitModels)
+
+The aligned RTC lines from MaReTE Transliteration Models are used for generating training data for RTC-based models. Generating the files requires the aligned training set file (https://github.com/MaReTEgyptologists/TranslitModels/blob/main/Output/Aligned/alignedLines_ramsesTrainingSet) from the TranslitModels repository (https://github.com/MaReTEgyptologists/TranslitModels).
